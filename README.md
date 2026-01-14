@@ -2,12 +2,7 @@
 <h3 align="center">A passionate Java Backend / Full Stack Developer from India</h3>
 
 ---
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4"
-       alt="Rohit Kumar"
-       width="200"
-       style="border-radius:50%;" />
-</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 ### 👨‍💻 About Me
 
@@ -42,4 +37,5 @@
   <a href="https://linkedin.com/in/rohithkumarguru">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
+   <a href="mailto:omkarkanemon1029@gmail.com"><img align="left" alt="Gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
 </p>
