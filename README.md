@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">A passionate Java Backend / Full Stack Developer from India</h3>
 
----
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
-### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Java & Spring Boot projects**
 - 🌱 I’m currently learning **Full Stack Development**
@@ -37,5 +34,5 @@
   <a href="https://linkedin.com/in/rohithkumarguru">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-   <a href="mailto:omkarkanemon1029@gmail.com"><img align="left" alt="Gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
+   <a href="mailto:rohithguru05@gmail.com"><img align="left" alt="Gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
 </p>
