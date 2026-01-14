@@ -2,6 +2,12 @@
 <h3 align="center">A passionate Java Backend / Full Stack Developer from India</h3>
 
 ---
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4"
+       alt="Rohit Kumar"
+       width="200"
+       style="border-radius:50%;" />
+</p>
 
 ### 👨‍💻 About Me
 
